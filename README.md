@@ -7,11 +7,4 @@
 - 🗂️ Experienced with MySQL · Redis · Kafka · Elasticsearch · Milvus
 - 🧪 Love clean code, refactoring, architecture design
 
-
-
-# 📞 Contact Me
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:chenwenshun@gmail.com)
-
----
-
-⭐ *Thanks for visiting! Feel free to explore my repositories and connect with me. *  
+⭐ *Thanks for visiting! Feel free to explore my repositories and connect with me. chenwenshun@gmail.com*  
